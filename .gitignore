@@ -1,0 +1,17 @@
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+*.env
+*.venv/
+*.pytest_cache/
+*.coverage
+*.mypy_cache/
+# Type checkers
+.mypy_cache/
